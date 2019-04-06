@@ -1,2 +1,2 @@
 # photogram-core
-Core database and utilities driver.
+Core database driver and utilities.

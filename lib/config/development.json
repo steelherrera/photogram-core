@@ -1,0 +1,14 @@
+{
+    "database":{
+        "host": "photogram.cyqpycqwbyrv.us-east-1.rds.amazonaws.com",
+        "user": "admin",
+        "password": "qpalwosk10",
+        "database": "Photogram",
+        "uri": "mysql://admin:qpalwosk10@photogram.cyqpycqwbyrv.us-east-1.rds.amazonaws.com/Photogram",
+        "port": 3306
+    },
+    "awsSecurityCredentials":{
+    },
+    "jwt":{
+    }
+}

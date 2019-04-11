@@ -1,2 +1,3 @@
-# photogram-core
+# Photogram Core
+
 Core database driver and utilities.

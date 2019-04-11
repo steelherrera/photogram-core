@@ -10,5 +10,6 @@
     "awsSecurityCredentials":{
     },
     "jwt":{
+        "secretKey": "36de7904-5c7b-11e9-8647-d663bd873d93"
     }
 }

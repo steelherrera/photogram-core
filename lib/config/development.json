@@ -1,15 +1,15 @@
 {
     "database":{
-        "host": "photogram.cyqpycqwbyrv.us-east-1.rds.amazonaws.com",
+        "host": "",
         "user": "admin",
         "password": "qpalwosk10",
         "database": "Photogram",
-        "uri": "mysql://admin:qpalwosk10@photogram.cyqpycqwbyrv.us-east-1.rds.amazonaws.com/Photogram",
+        "uri": "",
         "port": 3306
     },
     "awsSecurityCredentials":{
     },
     "jwt":{
-        "secretKey": "36de7904-5c7b-11e9-8647-d663bd873d93"
+        "secretKey": ""
     }
 }
